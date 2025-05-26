@@ -4,7 +4,7 @@
 错误1：we
 2
 ===========================
-123
+123是的
 =====================
 - [pyraminx] (https://github.com/pyraminx123)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
