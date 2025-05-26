@@ -3,7 +3,8 @@
 first conributors
 222
 3
-4
+556
+76
 - [pyraminx] (https://github.com/pyraminx123)
 - [JorgeGallegos] (https://github.com/JorgeGallegos8)
 - [StevenHall] (https://github.com/PedanticSteve)
